@@ -1,0 +1,15 @@
+site_name: Roadmap Android Developer (Java)
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - 01. Dasar Java: 01-Dasar-Java/index.md
+  - 02. Android Studio: 02-Android-Studio/index.md
+  - 03. Advanced Android: 03-Advanced-Android/index.md
+  - 04. API & Backend: 04-API/index.md
+  - 05. Clean Architecture: 05-Architecture/index.md
+  - 06. Testing: 06-Testing/index.md
+  - 07. Deploy: 07-Deploy/index.md
+  - 08. Tools Tambahan: 08-Tools/index.md
+  - 09. Proyek Mini: 09-Project/index.md
