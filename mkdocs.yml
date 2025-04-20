@@ -2,14 +2,32 @@ site_name: Roadmap Android Developer (Java)
 theme:
   name: material
 
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+
 nav:
   - Home: index.md
-  - 01. Dasar Java: 01-Dasar-Java/index.md
-  - 02. Android Studio: 02-Android-Studio/index.md
-  - 03. Advanced Android: 03-Advanced-Android/index.md
-  - 04. API & Backend: 04-API/index.md
-  - 05. Clean Architecture: 05-Architecture/index.md
-  - 06. Testing: 06-Testing/index.md
-  - 07. Deploy: 07-Deploy/index.md
-  - 08. Tools Tambahan: 08-Tools/index.md
-  - 09. Proyek Mini: 09-Project/index.md
+  - Dasar Java:
+    - Sintaks Dasar Java: 01-sintaks-dasar-java.md
+    - Operator: 02-operator.md
+    - Tipe Data: 02-tipe-data.md
+    - Variabel: 02-variabel.md
+    - If-Else: 03-if-else.md
+    - Looping: 03-looping.md
+    - Switch-Case: 03-switch-case.md
+    - Functions: 04-functions.md
+    - Method: 04-method.md
+    - Class: 05-class.md
+    - Object: 05-object.md
+    - Abstraction: 06-abstraction-oop.md
+    - Encapsulation: 06-encapsulation.md
+    - Inheritance: 06-inheritance.md
+    - Polymorphism: 06-polymorphism.md
+    - Exception Handling: 07-exception-handling.md
+    - Collection Framework: 08-collection-framework.md
+    - Threading dan Concurrency dalam Java: 09-threading-dan-concurrency-dalam-java.md
+    - Tools Bantu: 09-tools-bantu.md
