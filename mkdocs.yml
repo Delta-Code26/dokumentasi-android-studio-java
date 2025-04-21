@@ -25,7 +25,78 @@ nav:
     - Collection Framework: 01-Dasar-Java/08-collection-framework.md
     - Threading dan Concurrency dalam Java: 01-Dasar-Java/09-threading-dan-concurrency-dalam-java.md
     - Tools Bantu: 01-Dasar-Java/09-tools-bantu.md
-
+    - Lambda Expressions: 01-Dasar-Java/10-lambda-expressions.md
+    - Fuctional Programming Basic: 01-Dasar-Java/11-functional-programming-basic.md
+    - Concurrency: 01-Dasar-Java/12-concurrency.md
+    - Multi Threading: 01-Dasar-Java/13-multi-threading.md
+    - Java Stream API: 01-Dasar-Java/14-java-stream-api.md
+  - Android Studio:
+    - Instalasi Android Studio & Emulator: 02-Android-Studio/01-instalasi-android-studio-dan-emulator.md
+    - Struktur Project Android: 02-Android-Studio/02-struktur-project-android.md
+    - XML Layout: 02-Android-Studio/03-xml-layout.md
+    - Activity dan Lafecycle: 02-Android-Studio/04-activity-dan-lifecycle.md
+    - Intent dan Navigator Antar Activity: 02-Android-Studio/05-intent-dan-navigator-antar-activity.md
+    - Toast dan Alert Dialog: 02-Android-Studio/06-toast-dan-alertDialog.md
+    - ResyclerView: 02-Android-Studio/07-recyclerView.md
+    - Adapter: 02-Android-Studio/08-adapter.md
+    - ViewHolder Pattern: 02-Android-Studio/09-viewHolder-pattern.md
+  - Advance Android:
+    - Fragment dan Navigation Component: 03-Advance-Android/01-fragment-dan-navigation-component.md
+    - Shared Preferences: 03-Advance-Android/02-shared-preferences.md
+    - SQLite dan Room Database: 03-Advance-Android/03-sqlite-dan-room-database.md
+    - Background Task: 03-Advance-Android/04-background-task.md
+    - Services: 03-Advance-Android/05-services.md
+    - Broadcast Receiver: 03-Advance-Android/06-broadcast-receiver.md
+    - Costum Dialog dan Bottom Sheet: 03-Advance-Android/07-costum-dialog-dan-bottom-sheet.md
+    - Deep Dive ke Dependency Injection: 03-Advance-Android/08-deep-dive-ke-dependency-injection.md
+    - Room Database Advance Query dan Relasi: 03-Advance-Android/09-room-database-advance-query-dan-relasi.md
+  - Network dan API:
+    - Retrofit: 04-Network-dan-API/01-retrofit.md
+    - JSON Parsing: 04-Network-dan-API/02-json-parsing.md
+    - API CRUD: 04-Network-dan-API/03-api-crud.md
+    - Postman: 04-Network-dan-API/04-postman.md
+    - Login, Register, dan JWT Auth: 04-Network-dan-API/05-login-register-dan-jwt-auth.md
+    - Websocket: 04-Network-dan-API/06-websocket.md
+    - OKHTTP: 04-Network-dan-API/07-okhttp.md
+  - Clean Code dan Architecture:
+    - MVC MVP dan MVVM: 05-Clean-Code-dan-Architecture/01-mvc-mvp-dan-mvvm.md
+    - Separation of Concerns: 05-Clean-Code-dan-Architecture/02-separation-of-concerns.md
+    - Dependency Injection: 05-Clean-Code-dan-Architecture/03-dependency-injection.md
+    - MVVM LiveData dan ViewModel: 05-Clean-Code-dan-Architecture/04-mvvm-livedata-dan-viewmodel.md
+    - Solid Principles: 05-Clean-Code-dan-Architecture/05-solid-principles.md
+    - Testable Code dan Unit Test: 05-Clean-Code-dan-Architecture/06-testable-code-dan-unit-test.md
+  - Testing dan Debugging:
+    - Logcat: 06-Testing-dan-Debugging/01-logcat.md
+    - Unit Test dengan JUnit: 06-Testing-dan-Debugging/02-unit-test-junit.md
+    - Instrumention Test: 06-Testing-dan-Debugging/03-instrumentation-test.md
+    - Debugging: 06-Testing-dan-Debugging/04-debugging.md
+    - UI Testing dengan Espresso: 06-Testing-dan-Debugging/05-ui-testing-dengan-espresso.md
+    - Mocking dengan Mockito: 06-Testing-dan-Debugging/06-mocking-dengan-mockito.md
+  - Deployment dan Maintenance:
+    - Build APK: 07-Deploy-dan-Maintenance/01-build-apk.md
+    - APP Bundle: 07-Deploy-dan-Maintenance/02-app-bundle.md
+    - Publish ke Google Play Store: 07-Deploy-dan-Maintenance/03-publish-ke-google-play-store.md
+    - Update APP dan Manage Versi: 07-Deploy-dan-Maintenance/04-update-app-dan-manage-versi.md
+    - Analytics: 07-Deploy-dan-Maintenance/05-analytics.md
+    - Signing APK untuk Playstore: 07-Deploy-dan-Maintenance/06-signing-apk-untuk-playstore.md
+    - APP Bundle untuk Playstore: 07-Deploy-dan-Maintenance/07-app-bundle-untuk-playstore.md
+    - Google Play Console: 07-Deploy-dan-Maintenance/08-google-play-console.md
+    - Penanganan Review atau Rating: 07-Deploy-dan-Maintenance/09-penanganan-review-atau-rating.md
+  - Tools:
+    - Firebase: 08-Tools/01-firebase.md
+    - GIT dan GITHUB: 08-Tools/02-git-dan-github.md
+    - UI Library: 08-Tools/03-ui-library.md
+    - Firebase Crashlytics: 08-Tools/04-firebase-crashlytics.md
+    - GITLAB: 08-Tools/05-gitlab.md
+    - BITBUCKET: 08-Tools/06-bitbucket.md
+  - Project:
+    - Aplikasi Absensi Karyawan: 09-Project/01-aplikasi-absensi-karyawan.md
+    - Aplikasi Catatan Harian Dengan Reminder: 09-Project/02-catatan-harian-dengan-reminder.md
+    - Aplikasi CRUD Data Produk: 09-Project/03-aplikasi-crud-data-produk.md
+    - Aplikasi E-Commerce Mini: 09-Project/04-aplikasi-ecommerce-mini.md
+    - Projek Backend Integration: 09-Project/05-projek-backend-integration.md
+    - Projek Dengan Real Time Data: 09-Project/06-projek-dengan-real-time-data.md  
+    
 
 
 markdown_extensions:
